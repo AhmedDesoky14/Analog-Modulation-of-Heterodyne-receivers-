@@ -34,4 +34,4 @@ This MATLAB project simulates the process of analog modulation in heterodyne rec
 
 ## Credits
 
-- **Developer**: Ahmed Desoky
+- **Engineer**: Ahmed Desoky
